@@ -1,4 +1,4 @@
-#include "DbsGoNoGo.h"
+#include "dbs-go-nogo.h"
 #include "Arduino.h"
 #include <Wire.h>
 
